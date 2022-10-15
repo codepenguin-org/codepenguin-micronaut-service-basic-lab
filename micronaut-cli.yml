@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.codepenguin.labs
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, http-client, jackson-databind, java, java-application, jetty-server, junit, lombok, maven, mockito, openapi, readme, shade, slf4j-simple, swagger-ui, yaml ]
